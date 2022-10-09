@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+#Tishchenko Alexey IB/b-21-1-O
 
 """
 ASCII Text Analyzer
